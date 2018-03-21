@@ -1,6 +1,5 @@
 import bs4
 from bs4 import BeautifulSoup
-import urllib2
 import requests
 
 url ="https://rossthorn.github.io"
